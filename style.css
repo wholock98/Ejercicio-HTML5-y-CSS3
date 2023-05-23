@@ -1,0 +1,151 @@
+h1 {
+    margin-left: 40%;
+}
+
+h4 {
+    text-align: center;
+    background-color: green;
+    margin: 0px;
+    width: 596px;
+    margin-left: -4px;
+}
+
+
+.colores {
+    display: inline-block;
+    height: 50px;
+    width: 100px; 
+    position: relative;
+    text-align: center;
+    margin-left:-5px;
+    margin-right: 1px;
+}
+
+div {
+    margin-left: 30%;
+}
+
+#black {
+    background-color: black;
+}
+
+#teal {
+    background-color: teal;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#navy {
+    background-color: navy;
+}
+
+#lime {
+    background-color: lime;
+}
+
+#white {
+    background-color: white;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#olive {
+    background-color: olive;
+}
+
+#red {
+    background-color: red;
+}
+
+#marron {
+    background-color: maroon;
+}
+
+#grey {
+    background-color: gray;
+}
+
+#fuchsia {
+    background-color: fuchsia;
+}
+
+#green {
+    background-color: green;
+    width: 300px;
+}
+
+.texto {
+    font-size: 26px;
+}
+#f_black {
+    color: black;
+
+}
+
+#f_teal {
+    color: teal;
+}
+
+#f_blue {
+    color: blue;
+}
+
+#f_navy {
+    color: navy;
+}
+
+#f_lime {
+     color: lime;
+}
+
+#f_white {
+    color: white;
+}
+
+#f_purple {
+    color: purple;
+}
+
+#f_yellow {
+    color: yellow;
+}
+
+#f_olive {
+    color: olive;
+}
+
+#f_red {
+    color: red;
+}
+
+#f_marron {
+    color: maroon;
+}
+
+#f_grey {
+    color: gray;
+}
+
+#f_fuchsia {
+    color: fuchsia;
+}
+
+#f_green {
+    color: green;
+}
+
+#f_aqua {
+    color: aqua;
+}
+
+#f_silver {
+    color: silver;
+}
